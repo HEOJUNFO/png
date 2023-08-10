@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://cdn.jsdelivr.net/gh/HEOJUNFO/png@main/head01.png",
+    "dataType": "image",
+    "facePosition": 168,
+    "position": {
+      "x": -0.032,
+      "y": 0.15,
+      "z": 0.01
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 1.6,
+      "y": 1.6,
+      "z": 1
+    }
+  }
+]
