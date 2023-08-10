@@ -1,0 +1,21 @@
+[
+  {
+    "url": "https://cdn.jsdelivr.net/gh/HEOJUNFO/png@main/Sunglasses (3).gltf",
+    "facePosition": 168,
+    "position": {
+      "x": -0.02,
+      "y": 0.05,
+      "z": -0.45
+    },
+    "rotation": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 0.5,
+      "y": 0.5,
+      "z": 0.5
+    }
+  }
+]
