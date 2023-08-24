@@ -1,0 +1,16 @@
+[
+  {
+    "preset": "default",
+    "texture": "https://cdn.jsdelivr.net/gh/HEOJUNFO/png@main/Heart (1).png",
+    "color": "#ffffff",
+    "particleCount": 100,
+    "velocityValue": "0 0 0",
+    "accelerationValue": "0, 10, 0",
+    "maxAge": 3,
+    "size": "1",
+    "sizeSpread": "0",
+    "opacity": "1",
+    "opacitySpread": "0",
+    "positionSpread": "10 0 0"
+  }
+]

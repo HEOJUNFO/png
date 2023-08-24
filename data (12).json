@@ -1,0 +1,16 @@
+[
+  {
+    "preset": "dust",
+    "texture": "https://cdn.jsdelivr.net/gh/HEOJUNFO/png@main/leaf_01.png",
+    "color": "#ffffff",
+    "particleCount": 100,
+    "velocityValue": "1 0.3 1",
+    "accelerationValue": "0, 0.2, 0",
+    "maxAge": 20,
+    "size": "4",
+    "sizeSpread": "0",
+    "opacity": "1",
+    "opacitySpread": "0",
+    "positionSpread": "100 100 100"
+  }
+]
